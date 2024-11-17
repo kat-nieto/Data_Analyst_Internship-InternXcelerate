@@ -94,7 +94,7 @@ Improve campaign targeting and personalization enhance channel selection and res
 
         Total Impressions = SUM(fCampaign[Impressions])
 
-For creating the reference labels in the Card New, the following DAX expression was written:
+•	Step 8 : For creating the reference labels in the Card New, the following DAX expression was written:
 
         Dif. Conversion Rate = ([Avg. Conversion Rate] - [Last Month Avg. Conversion])
 
@@ -116,13 +116,13 @@ For creating the reference labels in the Card New, the following DAX expression 
 
         Text dif. CTR = FORMAT([Dif. CTR], "0.00% 🟢 ; -0.00% 🔴")
 
-•	Step 8 : In the report view, create the visualization using a canvas background previously designed in Figma.
+•	Step 9 : In the report view, create the visualization using a canvas background previously designed in Figma.
 
-•	Step 9: Visual filters (Slicers) were added for four fields named "Company", "Customer Segment", "Month" & "Duration".
+•	Step 10: Visual filters (Slicers) were added for four fields named "Company", "Customer Segment", "Month" & "Duration".
 
-•	Step 10 : Five cards new were added to the canvas, one representing Avg. Conversion Rate, Avg. Engagement Score, CPC, CTR, together with the comparison of the Last Month.
+•	Step 11 : Five cards new were added to the canvas, one representing Avg. Conversion Rate, Avg. Engagement Score, CPC, CTR, together with the comparison of the Last Month.
 
-•	Step 11: Bookmarks and icon buttons were created to view the different type of charts built: line chart, line and clustered column chart, ribbon chart, scatter chart, and table chart.
+•	Step 12: Bookmarks and icon buttons were created to view the different type of charts built: line chart, line and clustered column chart, ribbon chart, scatter chart, and table chart.
 
 ## Snapshop of Dashboard (Power BI Service)
 
