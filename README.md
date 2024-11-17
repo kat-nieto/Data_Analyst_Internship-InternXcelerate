@@ -37,7 +37,7 @@ Improve campaign targeting and personalization enhance channel selection and res
 
 •	Step 3: Duplicate five times the fact table fCampaign and create five dimension tables: dLocation, dChannel, dCustomer, dTarget, dLanguage.
 
-•	Step 4: Remove the extra columns from the fact, in the dimension tables remove duplicates, and change data type for the corresponding columns.
+•	Step 4: Remove the extra columns from the fact table, in the dimension tables remove duplicates, and change data type for the corresponding columns.
 
 •	Step 5: Create a new query and use the advance editor and type the code to create a dCalendar table.
 
