@@ -120,7 +120,7 @@ Improve campaign targeting and personalization enhance channel selection and res
 
 •	Step 10: Visual filters (Slicers) were added for four fields named "Company", "Customer Segment", "Month" & "Duration".
 
-•	Step 11 : Five cards new were added to the canvas, one representing Avg. Conversion Rate, Avg. Engagement Score, CPC, CTR, together with the comparison of the Last Month.
+•	Step 11 : Five cards new were added to the canvas representing Avg. Conversion Rate, Avg. Engagement Score, CPC, CTR, together with the comparison of the Last Month.
 
 •	Step 12: Bookmarks and icon buttons were created to view the different type of charts built: line chart, line and clustered column chart, ribbon chart, scatter chart, and table chart.
 
