@@ -26,7 +26,7 @@ What role does language and location play in the success of marketing campaigns,
 
 ## Objective: 
 
-To use advanced analytics and machine learning techniques to uncover patterns, correlations, and actionable insights from the dataset, enabling businesses to:
+To use advanced analytics techniques to uncover patterns, correlations, and actionable insights from the dataset, enabling businesses to:
 Improve campaign targeting and personalization enhance channel selection and resource allocation Maximize ROI by refining marketing strategies based on data-driven insights.
 
 ## Steps followed
